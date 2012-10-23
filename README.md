@@ -19,7 +19,7 @@ For Installing requirements, Please refer to [1]
   3. cmake ..
   4. make
 
-== Running LSIViewer ==
+== Deploying LSIViewer ==
 
   sudo ./lsiviewer.wt --docroot ='path/to/resources' --http-address 0.0.0.0 --http-port 8080
  
@@ -29,9 +29,9 @@ For Installing requirements, Please refer to [1]
   See here [2] for details
 
 
+== Reporting ==
 
 For BUG reporting, feature request, open discussion and help. Please use our forums[3]
-
 
 [1] http://www.webtoolkit.eu/wt/doc/reference/html/InstallationUnix.html (accessed on Oct 2012)
 
