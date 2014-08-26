@@ -34,9 +34,9 @@ For Installing requirements, Please refer to [1]
 
 For BUG reporting, feature request, open discussion and help. Please use our forums[3]
 
-[1] http://www.webtoolkit.eu/wt/doc/reference/html/InstallationUnix.html (accessed on Oct 2012)
+[1] http://www.webtoolkit.eu/wt/doc/reference/html/InstallationUnix.html (accessed on Aug 2014)
 
-[2] http://www.webtoolkit.eu/wt/doc/reference/html/InstallationUnix.html#examples (accessed on Oct 2012)
+[2] http://www.webtoolkit.eu/wt/doc/reference/html/InstallationUnix.html#examples (accessed on Aug 2014)
 
-[3] http://lsi.iiit.ac.in/redmine/projects/lsiviewer (accessed on Oct 2012)
+[3] http://redmine.vrgeo.in/projects/lsiviewer (accessed on Aug 2014)
 
